@@ -57,3 +57,10 @@ layout: default
 
 　　在伊朗上网，有时候就像在和网络玩捉迷藏。但一旦搞定，它就能为你打开一扇深入了解这个国度的窗口。希望这份指南能帮你顺利连上线的这一端，让旅途中的分享和探索都不再是难事。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Iran eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/iran-data-plans)
